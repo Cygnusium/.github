@@ -112,7 +112,7 @@ Our foundation is proudly maintained by a highly vetted, fiercely dedicated grou
         <i style="color: gray;">Dev</i>
       </td>
       <td align="center" width="180" style="border: none;">
-        <img src="https://github.com/ghost.png" width="80" style="border-radius: 50%; border: 3px solid #1f2328" />
+        <img src="https://media.discordapp.net/attachments/1384245296154017865/1491885507121119395/a062bf2678b7605258bdd2ec8cb63c3e.jpg?ex=69d95226&is=69d800a6&hm=7005b7ac3e2c16cafebdc232ff14035f87e5ea764dd639e5929c8634e05ded4c&=&format=webp" width="80" style="border-radius: 50%; border: 3px solid #1f2328" />
         <br /><br />
         <b>Maddmaverick</b>
         <br />

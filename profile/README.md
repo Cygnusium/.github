@@ -91,7 +91,7 @@ Our foundation is proudly maintained by a highly vetted, fiercely dedicated grou
         <br /><br />
         <b><a href="https://github.com/mrrhatt" style="text-decoration:none;">MrHat</a></b>
         <br />
-        <i style="color: gray;">Founder & Lead Dev</i>
+        <i style="color: gray;">CEO & Lead Dev</i>
       </td>
       <td align="center" width="180" style="border: none;">
         <a href="https://github.com/Nugetzrul3">
@@ -100,7 +100,7 @@ Our foundation is proudly maintained by a highly vetted, fiercely dedicated grou
         <br /><br />
         <b><a href="https://github.com/Nugetzrul3" style="text-decoration:none;">Nugetzrul3</a></b>
         <br />
-        <i style="color: gray;">Core Dev</i>
+        <i style="color: gray;">Core Dev & CTO</i>
       </td>
       <td align="center" width="180" style="border: none;">
         <a href="https://github.com/Jestag-CryptoJarcc">
@@ -116,7 +116,7 @@ Our foundation is proudly maintained by a highly vetted, fiercely dedicated grou
         <br /><br />
         <b>Maddmaverick</b>
         <br />
-        <i style="color: gray;">Manager</i>
+        <i style="color: gray;">CFO</i>
       </td>
     </tr>
   </table>
